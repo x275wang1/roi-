@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/roi-/static/css/main.9f088a99.css",
-    "main.js": "/roi-/static/js/main.320324ba.js",
+    "main.js": "/roi-/static/js/main.8021bbcc.js",
     "index.html": "/roi-/index.html",
     "main.9f088a99.css.map": "/roi-/static/css/main.9f088a99.css.map",
-    "main.320324ba.js.map": "/roi-/static/js/main.320324ba.js.map"
+    "main.8021bbcc.js.map": "/roi-/static/js/main.8021bbcc.js.map"
   },
   "entrypoints": [
     "static/css/main.9f088a99.css",
-    "static/js/main.320324ba.js"
+    "static/js/main.8021bbcc.js"
   ]
 }
